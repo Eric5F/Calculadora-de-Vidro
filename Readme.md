@@ -1,0 +1,1 @@
+Projeto criando Calculadora com Efeito Glassmorphism (Como se fosse vidro), efeito também nos botões ao passar ou clicar no mesmo e usando JS pronto para dar efeito de balanço (vanilla)
